@@ -2,7 +2,7 @@
 
 Facial or object recognition with MATLAB script using Pearson correlation coefficient.
 
-In this code a MATLAB script is written to perform a comparison of images using the Pearson correlation coefficient for image recognition. Pearson's correlation coefficient for facial or object recognition, between a reference image and 3 other images that are obtained through a webcam video capture script.
+In this code a MATLAB script is written to perform an image recognition using Pearson's correlation coefficient, being the images obtained through an image capture script from a webcam video in MATLAB. 
 
 Files:
 
